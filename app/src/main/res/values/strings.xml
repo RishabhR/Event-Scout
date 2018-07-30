@@ -1,0 +1,20 @@
+<resources>
+    <string name = "app_name">GPSLocation</string>
+    <string name = "textView">Comment</string>
+    <string name = "enterComment">Enter Comment</string>
+    <string name = "done">DONE</string>
+    <string name = "title">Event Title</string>
+    <string name = "venue">Venue</string>
+    <string name = "city">CITY:</string>
+    <string name = "performer">Performers</string>
+    <string name = "date">Date</string>
+    <string name = "time">Time</string>
+    <string name = "perfImage">Performer Image</string>
+    <string name = "type">Type: </string>
+    <string name = "VENUE">VENUE:</string>
+    <string name = "comment">COMMENT</string>
+    <string name = "performers">PERFORMERS</string>
+    <string name = "tickets">BUY TICKETS</string>
+    <string name = "edate">EVENT DATE:</string>
+    <string name = "etime">EVENT TIME:</string>
+</resources>
